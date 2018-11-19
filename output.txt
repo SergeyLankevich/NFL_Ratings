@@ -1,0 +1,121 @@
+Austin Allen                                                          
+Brandon Allen            0         0.0       0.0       0         0    
+Josh Allen               75        54.0      6.0       2         167  
+Kyle Allen                                                            
+Derek Anderson           909       54.3      6.5       60        563  
+Matt Barkley             174       59.8      7.4       10        75   
+J.T. Barrett                                                          
+C.J. Beathard            225       57.3      6.8       12        297  
+Kurt Benkert                                                          
+Blake Bortles            1529      59.4      6.7       102       1114 
+Tim Boyle                0         0.0       0.0       0         0    
+Sam Bradford             1855      62.5      6.6       103       1371 
+Tom Brady                5871      64.0      7.5       505       2908 
+Tyler Bray               0         0.0       0.0       0         0    
+Drew Brees               6479      67.3      7.6       513       2763 
+Teddy Bridgewater        551       64.7      7.2       28        556  
+Jacoby Brissett          311       59.0      6.6       13        351  
+Joe Callahan             5         71.4      1.6       0         0    
+Derek Carr               1625      62.6      6.7       115       747  
+Matt Cassel              1573      58.9      6.5       104       1144 
+Connor Cook              14        66.7      7.1       1         7    
+Kirk Cousins             1661      66.3      7.6       118       1004 
+Andy Dalton              2433      62.3      7.2       187       1489 
+Chase Daniel             51        65.4      6.2       1         38   
+Sam Darnold              159       55.0      6.7       11        129  
+Austin Davis             236       62.4      6.7       13        275  
+Joshua Dobbs             2         66.7      6.3       0         0    
+Jeff Driskel             6         85.7      12.0      0         0    
+Danny Etling                                                          
+David Fales              31        64.6      6.0       1         13   
+Luke Falk                0         0.0       0.0       0         0    
+Ryan Fitzpatrick         2575      60.1      6.9       190       1300 
+Joe Flacco               3499      61.7      6.7       212       2360 
+Nick Foles               887       60.4      7.0       62        580  
+Blaine Gabbert           817       56.0      6.0       46        912  
+Jimmy Garoppolo          236       65.4      8.2       17        205  
+Garrett Gilbert          0         0.0       0.0       0         0    
+Mike Glennon             467       60.6      6.4       34        483  
+Jared Goff               635       62.6      7.9       55        508  
+Garrett Grayson          0         0.0       0.0       0         0    
+Ryan Griffin             0         0.0       0.0       0         0    
+Robert Griffin III       766       63.3      7.4       42        856  
+Christian Hackenberg     0         0.0       0.0       0         0    
+Taylor Heinicke          2         66.7      7.7       0         16   
+Jack Heneghan                                                         
+Chad Henne               1159      59.3      6.6       58        938  
+Taysom Hill              3         50.0      10.7      0         0    
+Kevin Hogan              60        59.4      6.1       4         45   
+Brian Hoyer              838       59.4      7.0       48        571  
+Brett Hundley            194       59.5      5.7       9         197  
+Lamar Jackson            20        64.5      7.6       1         20   
+Connor Jessop                                                         
+Cardale Jones            6         54.5      8.7       0         2    
+Landry Jones             108       63.9      7.8       8         66   
+Brad Kaaya               0         0.0       0.0       0         0    
+Chad Kanoff                                                           
+Case Keenum              1008      62.2      7.0       57        694  
+Chad Kelly               0         0.0       0.0       0         0    
+Cody Kessler             160       64.5      6.7       7         216  
+DeShone Kizer            259       53.6      6.1       11        247  
+Kyle Lauletta            0         0.0       0.0       0         0    
+Tanner Lee                                                            
+Chase Litton                                                          
+Andrew Luck              1839      60.3      7.2       161       1066 
+Paxton Lynch             79        61.7      6.2       4         93   
+Patrick Mahomes          253       66.6      9.0       31        110  
+Eli Manning              4675      60.2      7.0       352       2742 
+Sean Mannion             31        62.0      4.7       0         20   
+EJ Manuel                343       58.1      6.4       20        297  
+Marcus Mariota           933       62.6      7.4       65        755  
+Baker Mayfield           176       61.8      7.0       13        154  
+AJ McCarron              87        64.0      6.8       6         79   
+Josh McCown              1538      60.3      6.8       97        1547 
+Colt McCoy               514       60.2      6.6       27        473  
+Matt McGloin             161       58.1      6.7       11        81   
+Alex McGough                                                          
+Stephen Morris           0         0.0       0.0       0         0    
+Nick Mullens             43        70.5      8.4       4         0    
+Cam Newton               2226      59.4      7.3       178       2099 
+Brock Osweiler           697       59.8      6.4       37        553  
+Luis Perez                                                            
+Nathan Peterman          68        52.3      4.2       3         39   
+Bryce Petty              130       53.1      5.5       4         134  
+Dak Prescott             816       65.1      7.3       56        529  
+Peter Pujals                                                          
+Philip Rivers            4382      64.4      7.8       365       2390 
+Brogan Roback                                                         
+Aaron Rodgers            3426      64.9      7.9       332       2538 
+Ben Roethlisberger       4435      64.2      7.9       352       3243 
+Josh Rosen               125       54.8      6.2       9         163  
+Jake Rudock              3         60.0      4.8       0         0    
+Mason Rudolph            0         0.0       0.0       0         0    
+Cooper Rush              1         33.3      0.7       0         0    
+Matt Ryan                3905      65.3      7.5       282       2017 
+Tom Savage               181       57.5      6.3       5         200  
+Matt Schaub              2098      63.9      7.6       133       1226 
+Nic Shimonek                                                          
+Trevor Siemian           495       59.3      6.8       30        407  
+Kyle Sloter              0         0.0       0.0       0         0    
+Alex Smith               3082      62.4      6.9       193       2324 
+Geno Smith               523       57.9      6.8       29        540  
+Matthew Stafford         3249      62.3      7.2       233       2036 
+Drew Stanton             345       52.4      6.2       20        226  
+Dalton Sturm                                                          
+Nate Sudfeld             19        82.6      5.8       0         24   
+Ryan Tannehill           1738      62.8      7.0       114       1704 
+Alex Tanney              10        71.4      7.1       1         34   
+Tyrod Taylor             835       61.6      7.0       53        774  
+Mitchell Trubisky        406       62.4      7.2       27        315  
+Phillip Walker                                                        
+Deshaun Watson           327       63.7      8.4       37        292  
+Davis Webb               0         0.0       0.0       0         0    
+Joe Webb                 90        56.6      5.6       3         69   
+Brandon Weeden           559       57.9      6.7       31        452  
+Carson Wentz             854       63.3      7.0       64        549  
+Mike White               0         0.0       0.0       0         0    
+Russell Wilson           1999      64.2      7.8       184       1821 
+Jameis Winston           1047      61.3      7.6       77        696  
+John Wolford                                                          
+Josh Woodrum                                                          
+Logan Woodside                                                        
