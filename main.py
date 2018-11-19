@@ -18,6 +18,7 @@ with open('output.txt','w') as f_out:
             table_results.append((total[total.find('<td>') + 4:total.find('</td>')]).replace(',',''))
             total = total[total.find('</td>') + 4:]
             i += 1
+            
         COMP = table_results[0]
         ATT = table_results[1]
         YDS = table_results[3]
